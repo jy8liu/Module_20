@@ -9,7 +9,7 @@ export default function Navigation() {
     <Navbar
       links={[
         <Link key={1} className="nav-link text-light" to="/">
-        <h1 className='mb-0'>Renz</h1>
+        <h1 className='mb-0'>Jason</h1>
         </Link>,
         <Link key={2} className="nav-link text-light" to="/about">
         About Me

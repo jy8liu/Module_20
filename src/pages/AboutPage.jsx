@@ -19,7 +19,7 @@ export default function AboutPage() {
                 <div className="features-icons-icon d-flex">
                   <i className="bi-window m-auto text-primary" />
                 </div>
-                <h1> <img src="https://avatars.githubusercontent.com/u/31431868?s=96&v=4" style={imageStyle}/> WHO AM I? <GrGamepad/></h1>
+                <h1> <img src="https://avatars.githubusercontent.com/jy8liu" style={imageStyle}/> WHO AM I? <GrGamepad/></h1>
                 <p className="lead mb-0">
                   A short summary about me
                 </p>
@@ -30,7 +30,7 @@ export default function AboutPage() {
       </section>
       <ul>
         <li>
-        👋 Hi, I’m @jy8liu
+         Hi, I’m @jy8liu
         </li>
         <li>
         I'm interested in Full Stack Development

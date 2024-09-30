@@ -40,12 +40,12 @@ export default function ContactPage() {
         <div className="container text-center">
                 <div style={logoStyle}>
                     <h1 className="mx-2">
-                        <a href="https://github.com/renzsupnet" target="_blank" rel="noopener noreferrer" style={{color: 'white'}}>
+                        <a href="https://github.com/jy8liu" target="_blank" rel="noopener noreferrer" style={{color: 'white'}}>
                             <FaGithub style={{ color: "#C96868" }}/>
                         </a>
                     </h1>
                     <h1 className="mx-2">
-                        <a href="mailto:rcbsupnet@gmail.com" style={{color: 'white'}}>
+                        <a href="mailto:jy8liu@gmail.com" style={{color: 'white'}}>
                             <SiGmail style={{ color: "#C96868" }}/>
                         </a>
                     </h1>

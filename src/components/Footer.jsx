@@ -8,7 +8,7 @@ export default function Footer() {
         left: 0,
         width: '100%',
         padding: '1rem 0',
-        backgroundColor: '#C96868',
+        backgroundColor: '#68bac9',
         color: 'white' // Added for better contrast
     }
 
@@ -22,7 +22,7 @@ export default function Footer() {
     return (
         <footer className="footer" style={footerStyle}>
             <div className="container text-center">
-                <span>@Renz Portfolio</span>
+                <span>Portfolio</span>
                 <div style={logoStyle}>
                     <h2 className="mx-2">
                         <a href="https://github.com/jy8liu" target="_blank" rel="noopener noreferrer" style={{color: 'white'}}>

@@ -4,7 +4,7 @@ export default function Nav({ links }) {
     top: 0,
     width: '100%',
     marginBottom: '25px',
-    backgroundColor: '#C96868'
+    backgroundColor: '#68bac9'
   };
 
   return (
