@@ -19,49 +19,6 @@ export default function HomePage() {
 
 
 
-    return (
-      <div className="container pt-5" style={ulStyle}>
-        <h1>Education</h1>
-        <ul style={ulStyle}><br></br>
-        Magna Cum Laude
-        <br></br>
-        University of the Cordilleras
-        <br></br>
-        Bachelor of Science - BS, Information Technology · (2016 - 2020)
-        <br></br>
-        <br></br>
-        Udacity
-        <br></br>
-        Nanodegree, Cloud Developer · (2021 - 2021)
-        <br></br>
-        <br></br>
-        UCI Coding Bootcamp
-        Bootcamp Certificate (March 2024)
-        <br></br>
-        <br></br>
-        </ul>
-        <br></br>
-        <h1>Skills Acquired</h1>
-        <br></br>
-        <ul style={ulStyle}>
-          <RiJavascriptFill />JavaScript <RiJavaLine />Java<br></br>
-          <br></br>
-          <FaNetworkWired />Network Configuration   <FaPython />Python<br></br>
-          <br></br>
-          <PiFileSqlFill />SQL    <SiMysql />MySQL<br></br>
-          <br></br>
-          <FaAws />AWS    <FaDesktop />Computer Hardware<br></br>
-          <br></br>
-          <MdDesktopMac />Information Technology<br></br>
-        </ul>
-        <br></br>
-        <Resume/>
-        <br></br>
-        <br></br>
-        <br></br>
-      </div>
-
-      
-    );
+    
   }
   

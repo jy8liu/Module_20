@@ -30,24 +30,18 @@ export default function AboutPage() {
       </section>
       <ul>
         <li>
-        👋 Hi, I’m @renzsupnet
+        👋 Hi, I’m @jy8liu
         </li>
         <li>
-        👀 I’m interested in a programming job/ games
+        I'm interested in Full Stack Development
         </li>
         <li>
-        🌱 I’m currently learning Coding @ UCI Coding Bootcamp
-        </li>
-        <li>
-        🎓 I have a Bachelor of Science Degree in Information Technology
-        </li>
-        <li>
-        👓Graduated as Magna cum laude from the University of the Cordilleras, Baguio City, Philippines
+        I'm currently a software engineering student at UC Irvine
         </li>
       </ul>
       <br></br>
       <h3>I learned:</h3>
-      <h4><RiJavascriptFill />Javascript  <FaPython />Python  <PiFileSqlFill />SQL</h4>
+      <h4><RiJavascriptFill />Python  <FaPython />C++  <PiFileSqlFill /> JS </h4>
       
     </div>
   );

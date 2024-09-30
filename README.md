@@ -2,7 +2,7 @@
 
   ## Description
 
-    This is a single page React porfolio showcase of projects done on github.
+    This is a React porfolio.
 
 
   ## Table of Contents 

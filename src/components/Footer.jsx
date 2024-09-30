@@ -25,12 +25,12 @@ export default function Footer() {
                 <span>@Renz Portfolio</span>
                 <div style={logoStyle}>
                     <h2 className="mx-2">
-                        <a href="https://github.com/renzsupnet" target="_blank" rel="noopener noreferrer" style={{color: 'white'}}>
+                        <a href="https://github.com/jy8liu" target="_blank" rel="noopener noreferrer" style={{color: 'white'}}>
                             <FaGithub />
                         </a>
                     </h2>
                     <h2 className="mx-2">
-                        <a href="mailto:rcbsupnet@gmail.com" style={{color: 'white'}}>
+                        <a href="mailto:jy8liu@gmail.com" style={{color: 'white'}}>
                             <SiGmail />
                         </a>
                     </h2>

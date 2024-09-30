@@ -26,11 +26,11 @@ export default function PortfolioPage() {
 
   const projects = [
     {
-      title: "PaperCut Pals",
-      description: "PAPERCUT PALS is a MERN Stack Single-Page Application that brings book lovers together in a virtual book club environment. It offers personalized book suggestions based on user preferences and provides a platform for literary discussion and discovery.",
-      image: "https://github.com/girlnotfound/PAPERCUT-PALS/blob/main/client/public/images/BookwormPalsTrans.png?raw=true",
-      github: "https://github.com/girlnotfound/PAPERCUT-PALS",
-      demo: "https://papercut-pals.onrender.com"
+      title: "Fitness Tracker",
+      description: "Fitness Tracker is a meal prep website.",
+      image: "https://github.com/CrisSal2/Arugula-Week/blob/main/client/public/images/arugula-week.onrender.com_.png?raw=true",
+      github: "https://github.com/CrisSal2/Arugula-Week",
+      demo: "https://arugula-week.onrender.com/"
     },
     {
       title: "Quantum Rig",
@@ -40,40 +40,20 @@ export default function PortfolioPage() {
       demo: "https://quantum-rig-k6zh.onrender.com"
     },
     {
-      title: "Tech Blog",
-      description: "This tech blog has been developed using express, sessions, bcrypt, sequalize, and handlebars. Certain routes are closed off from non members and require signing up before adding blog posts and/or commenting.",
-      image: "https://github.com/renzsupnet/14_Tech_Blog/blob/main/public/img/profile.png?raw=true",
-      github: "https://github.com/renzsupnet/14_Tech_Blog/tree/main",
-      demo: "https://one4-tech-block.onrender.com"
-    },
-    {
-      title: "JATE PWA",
-      description: "A simple text editor that is an installable PWA application that uses service workers",
-      image: "https://github.com/renzsupnet/19_JATE_PWA/blob/main/assets/screenshots/manifest.png?raw=true",
-      github: "https://github.com/renzsupnet/19_JATE_PWA/tree/main",
-      demo: "https://one9-jate-pwa.onrender.com"
-    },
-    {
       title: "Weather Dashboard",
-      description: "A challenge to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.",
-      image: "https://github.com/renzsupnet/06_Weather_DashBoard/blob/main/assets/images/results.png?raw=true",
-      github: "https://github.com/renzsupnet/06_Weather_DashBoard",
-      demo: "https://renzsupnet.github.io/06_Weather_DashBoard/"
+      description: "Made in HTML and CSS.",
+      image: "https://github.com/jy8liu/Module_6/blob/main/assets/images/home.png?raw=true",
+      github: "https://github.com/jy8liu/Module_6",
+      demo: "https://jy8liu.github.io/Module_6/"
     },
     {
       title: "Note Taker",
-      description: "An Express JS application about taking notes and applying routing principles.",
-      image: "https://github.com/renzsupnet/11_Note_Taker/blob/main/public/assets/img/sample.png?raw=true",
-      github: "https://github.com/renzsupnet/11_Note_Taker/tree/main",
-      demo: "https://one1-note-taker-zplh.onrender.com"
-    },
-    {
-      title: "Web API Challenge",
-      description: "A challenge to create a blog that displays the title, content and author from localStorage.",
-      image: "https://github.com/renzsupnet/04_Web_API_Challenge/blob/main/assets/images/blog.png?raw=true",
-      github: "https://github.com/renzsupnet/04_Web_API_Challenge",
-      demo: "https://renzsupnet.github.io/04_Web_API_Challenge/"
+      description: "Express JS note taking app.",
+      image: "https://github.com/jy8liu/Module_11/raw/main/public/assets/img/index.png?raw=true",
+      github: "https://github.com/jy8liu/Module_11",
+      demo: "https://module-11.onrender.com/"
     }
+
   ];
 
   return (
