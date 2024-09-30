@@ -1,5 +1,5 @@
 import React from 'react';
-import resumePDF from '../assets/Profile.pdf';
+//import resumePDF from '../assets/Profile.pdf';
 
 const ResumeDownload = () => {
   const buttonStyle = {
